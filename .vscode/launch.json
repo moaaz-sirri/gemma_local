@@ -2,21 +2,21 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Gemma Local - Debug",
+      "name": "gemma_local (debug)",
       "request": "launch",
       "type": "dart",
       "program": "lib/main.dart",
       "flutterMode": "debug"
     },
     {
-      "name": "Gemma Local - Profile",
+      "name": "gemma_local (profile)",
       "request": "launch",
       "type": "dart",
       "program": "lib/main.dart",
       "flutterMode": "profile"
     },
     {
-      "name": "Gemma Local - Release",
+      "name": "gemma_local (release)",
       "request": "launch",
       "type": "dart",
       "program": "lib/main.dart",
