@@ -46,3 +46,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 .worktrees/
+
+# FVM Version Cache
+.fvm/
